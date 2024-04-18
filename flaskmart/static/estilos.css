@@ -1,0 +1,70 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    background-color: black;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    font-size: 1em;
+}
+
+h1 {
+    font-family: 'Bebas Neue', sans-serif;
+    color:white;
+    margin: 30px;
+    font-size: 3em;
+}
+
+nav {
+    padding: 10px;
+}
+
+a {
+    padding: 5px;
+}
+
+#lista {
+    color: white;
+    font-size: 1.1em;
+    padding: 10px;
+    font-weight: bold;
+}
+
+h2 {
+    font-size: 1.8em;
+    font-family: 'Bebas Neue', sans-serif;
+    text-decoration: underline;
+}
+
+main {
+    background-color: white;
+    max-width: 400px;
+    height: auto;
+    padding: 30px;
+    border-radius: 5px;
+    margin: 0 auto;
+
+}
+
+.campos_form {
+    padding: 15px;
+    font-weight: bold;
+    font-size: 1.1em;
+}
+
+.inputs {
+    width: 200px;
+    height: 30px;
+}
+
+.btn {
+    width: 200px;
+    height: 30px;
+    font-weight: bold;
+    font-size: 0.9em;
+    color: white;
+    background-color: black;
+    border: none;
+    margin: 30px 0px;
+    text-align: center;
+    cursor: pointer;
+}
