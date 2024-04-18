@@ -1,6 +1,7 @@
 body {
     font-family: 'Poppins', sans-serif;
-    background-color: black;
+    background-color: #C4E2FF;
+    color: #344C64;
     margin: 0;
     padding: 0;
     text-align: center;
@@ -9,7 +10,6 @@ body {
 
 h1 {
     font-family: 'Bebas Neue', sans-serif;
-    color:white;
     margin: 30px;
     font-size: 3em;
 }
@@ -22,8 +22,15 @@ a {
     padding: 5px;
 }
 
+#lista:hover {
+    color: #344C64;
+}
+
+#lista:visited {
+    color: #344C64;
+}
+
 #lista {
-    color: white;
     font-size: 1.1em;
     padding: 10px;
     font-weight: bold;
@@ -62,7 +69,7 @@ main {
     font-weight: bold;
     font-size: 0.9em;
     color: white;
-    background-color: black;
+    background-color: #344C64;
     border: none;
     margin: 30px 0px;
     text-align: center;

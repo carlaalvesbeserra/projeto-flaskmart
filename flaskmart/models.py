@@ -1,5 +1,7 @@
+# imports
 from flask_sqlalchemy import SQLAlchemy
 
+# criando banco
 db = SQLAlchemy()
 
 
